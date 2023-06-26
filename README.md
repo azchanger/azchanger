@@ -92,8 +92,6 @@ Take control of your device information and enjoy enhanced privacy with AZChange
 
 - **Bluetooth MAC**: Xposed allows modifications to the Bluetooth MAC address, which is a unique identifier assigned to the device's Bluetooth adapter.
 
-- **Android ID**: Xposed can alter the unique Android ID assigned to each device, which is used by apps for identification purposes.
-
 - **SIM Serial ID**: Xposed modules can modify the SIM card's serial ID, which is a unique identifier associated with the SIM card.
 
 - **SIM Sub IDs**: Xposed can change the SIM card's subscription IDs, which are unique identifiers assigned to each SIM card slot on a device with dual SIM support.
