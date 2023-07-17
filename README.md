@@ -104,6 +104,7 @@ Take control of your device information and enjoy enhanced privacy with AZChange
 
 - **SIM Operator**: Xposed modules can modify the SIM card operator information, which includes the mobile network operator's name or code.
 
+- **Fake Camera Virtual camera functionality**: The virtual camera feature in Android Xposed can serve various purposes. It enables you to generate fake images/videos for sharing on social media platforms, messaging apps, or even in surveillance or image analysis applications.
 
 ## Requirements
 
